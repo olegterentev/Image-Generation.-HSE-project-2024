@@ -1,1 +1,1 @@
-# Image-Generation.-HSE-project-2024
+# Image Generation. HSE project 2024
